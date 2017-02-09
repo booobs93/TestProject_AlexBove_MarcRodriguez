@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
 
 int main()
 {
+	cout << "hello partner";
     return 0;
 }
 
