@@ -7,9 +7,9 @@
 
 int main()
 {
-	cout << "hello partner";
+	std::cout << "hello partner";
 
-	cout << "Hello Alex";
+	std::cout << "Hello Alex";
     return 0;
 }
 
