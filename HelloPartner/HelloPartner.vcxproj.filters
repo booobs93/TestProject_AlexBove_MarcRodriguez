@@ -32,5 +32,8 @@
     <ClCompile Include="HelloPartner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\CppProjects_AlexBove\TheWalkingDead\TheWalkingDead.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
